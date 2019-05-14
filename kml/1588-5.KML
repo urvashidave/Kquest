@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><kml xmlns="http://earth.google.com/kml/2.1"><Folder><description><![CDATA[1 Items from Layer Market_area]]></description><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>Store</td><td>1588-5</td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF0000FF</color><width>  2</width></LineStyle><PolyStyle><fill>0</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><outerBoundaryIs><LinearRing><coordinates>
+              -81.10114,43.51211,0
+              -81.15473,43.44905,0
+              -81.20873,43.38598,0
+              -81.22192,43.38997,0
+              -81.21908,43.37642,0
+              -81.2128,43.37062,0
+              -81.20737,43.34314,0
+              -81.18242,43.21596,0
+              -80.8868,43.305779,0
+              -80.88837,43.42535,0
+              -80.93802,43.42608,0
+              -80.9302,43.43568,0
+              -80.99543,43.46465,0
+              -81.10114,43.51211,0
+            </coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Folder></kml>

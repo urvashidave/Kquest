@@ -1,0 +1,99 @@
+ @media print and (orientation:landscape) {
+ 
+ 
+ @page {
+	size: A4 landscape;
+	max-height:100%;
+	max-width:99%;
+ margin-left:7%;
+ margin-top:8%;
+
+    }
+    .margin{
+        border-bottom:0.1px solid !important;
+        width: 373px !important;
+        }
+        .margin2{
+        padding-top: 2%;
+        width: 373px !important;
+        }
+
+    .first{
+    margin-top:0px !important;
+    }
+    body{
+
+    position: absolute;
+     width:98%;
+    left: 3%;
+    margin-left:5%;
+    margin-bottom:1px;
+    line-height: 1.2;
+    overflow:hidden;    
+    }
+    
+    .container row col-md-12 print_pages{
+    width:98%;
+    margin-left:5%;
+    }
+    pbodyemp {
+    font-size: 12px !important;
+    }
+    
+    .container{
+    
+    width:98% !important;
+     margin-left:5%;
+   
+    }
+    
+    .stitle {
+    font-family: Arial Narrow, Arial, Helvetica, sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    color: #900C3F;
+}
+    
+    .pbody12 {
+	font-family: Arial Narrow, Arial, Helvetica, sans-serif;
+	font-size: 0px;
+	font-weight: normal;
+	color: #000000;
+}
+
+    .sgrey14 {
+     font-size: 10px !important;
+    }
+    
+    .style3 {
+    font-size: 10px !important;
+}
+    table{
+    overflow:hidden;
+    width:98% !important;
+    font-size:15px;
+   
+    
+    }
+
+    #page-wrap{
+        width:98%;
+        height:auto;
+    }
+    .print_pages{    
+        width:98%;
+        height:auto;
+      
+        text-align:left;
+        page-break-after: avoid;
+        page-break-inside: avoid;
+        }
+        
+        #piechart_3d{
+            height:200px;
+        }
+    #map{max-width:90% !important;
+    }
+    #chart_div{  max-width:90% !important;  }
+  
+}

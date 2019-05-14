@@ -1,0 +1,87 @@
+ @media print and (orientation:landscape) {
+ 
+ 
+ @page {
+	size: A4 landscape;
+	max-height:100%;
+	max-width:100%;
+ 
+ margin-left:12%;
+
+ margin-top:12%;
+
+	}
+
+
+ body{
+
+position: absolute;
+     width:100%
+
+  margin-left:12%;
+    margin-bottom:1px;
+    line-height: 1.2;
+    overflow:hidden;    
+        }
+    
+    .container row col-md-12 print_pages{
+    width:100%;
+    margin-left:12%;
+    
+    }
+    pbodyemp {
+    font-size: 12px !important;
+    }
+    
+    .container{
+    
+    width:100% !important;
+     margin-left:12%;
+
+   
+    }
+    
+    .stitle {
+    font-family: Arial Narrow, Arial, Helvetica, sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    color: #900C3F;
+}
+    
+    .pbody12 {
+	font-family: Arial Narrow, Arial, Helvetica, sans-serif;
+	font-size: 0px;
+	font-weight: normal;
+	color: #000000;
+}
+    .sgrey14 {
+     font-size: 10px !important;
+    }
+    
+    .style3 {
+    font-size: 10px !important;
+}
+    table{
+    overflow:hidden;
+    width:100%;
+    font-size:10px;
+    max-height:40px !important; 
+    
+    
+    }
+    .print_pages{
+    
+    width:100%;
+    min-width:100%;
+    height:auto;
+    margin-top:5% !important;
+   margin-left:12%;
+
+
+    }
+    #map{max-width:98% !important;
+    }
+    #chart_div{  max-width:98% !important;  }
+    
+    
+  

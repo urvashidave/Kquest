@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?><kml xmlns="http://earth.google.com/kml/2.1"><Folder><description><![CDATA[1 Items from Layer Market_area]]></description><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>store</td><td>6009</td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF0000FF</color><width>  2</width></LineStyle><PolyStyle><fill>0</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><outerBoundaryIs><LinearRing><coordinates>
+              -73.848777,45.514907,0
+              -73.849781,45.511915,0
+              -73.855801,45.50822,0
+              -73.85856,45.502941,0
+              -73.860065,45.501357,0
+              -73.858679,45.500094,0
+              -73.855801,45.498893,0
+              -73.866837,45.487807,0
+              -73.862824,45.482879,0
+              -73.856792,45.472199,0
+              -73.853197,45.468467,0
+              -73.834114,45.450019,0
+              -73.829898,45.438911,0
+              -73.827597,45.432051,0
+              -73.820981,45.428218,0
+              -73.815662,45.429551,0
+              -73.812928,45.430236,0
+              -73.803436,45.433968,0
+              -73.79984,45.438507,0
+              -73.798402,45.444156,0
+              -73.795238,45.448998,0
+              -73.776613,45.444106,0
+              -73.754635,45.437653,0
+              -73.719879,45.436936,0
+              -73.72039,45.463823,0
+              -73.720196,45.464739,0
+              -73.721695,45.46354,0
+              -73.751776,45.474768,0
+              -73.741313,45.492986,0
+              -73.763547,45.510056,0
+              -73.763067,45.510394,0
+              -73.772524,45.514012,0
+              -73.787858,45.51437,0
+              -73.810347,45.519748,0
+              -73.852211,45.52346,0
+              -73.852245,45.523438,0
+              -73.844513,45.516139,0
+              -73.848777,45.514907,0
+            </coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Folder></kml>

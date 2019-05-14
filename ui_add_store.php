@@ -1,0 +1,1 @@
+<input name="AddStore" type="button" value="Add a New Store" onclick= "TRADEAREAsubmit();"/></br>
